@@ -14,7 +14,7 @@ function Projects() {
             </motion.div>
 <div className='w-full max-w-xl lg:w-3/4'> 
 <h3 className='mb-2 font-semibold text-2xl'>{project.title}</h3>
-<p mb-4 text-stone-400>{project.description}</p>
+<p className='mb-4 text-stone-400'>{project.description}</p>
 <motion.div whileInView={{opacity:1,x:0}} initial={{opacity:0,x:100}} transition={{duration:1}} className='mt-2'>
 {project.technologies.map((tech,index)=>(
     <span className='  mr-2 rounded bg-stone-900  p-2 text-sm font-medium text-stone-300 'key={index}>{tech}</span>
