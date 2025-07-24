@@ -9,9 +9,8 @@ import project10 from "../assets/projects/proxy-image10.png"
 import project11 from "../assets/projects/proxy-image11.jpg";
 import project12 from "../assets/projects/proxy-image12.jpg";
 
-export const HERO_CONTENT = `I'm a full stack developer driven by curiosity and a deep commitment to building seamless digital experiences. With strong proficiency in React, Node.js, and MongoDB, I focus on crafting responsive front-end interfaces and efficient back-end architectures. I take pride in writing clean, scalable code and delivering reliable solutions that solve real-world problems. Whether working independently or as part of a team, I value collaboration, continuous improvement, and shipping high-quality products that make a meaningful impact. I actively stay updated with evolving web technologies to ensure modern, future-proof solutions. My mission is to build applications that not only function flawlessly but also delight users.
+export const HERO_CONTENT = `Full stack developer skilled in building efficient, user-friendly web apps using React, Next.js, Node.js, and various databases. Passionate about solving problems, learning new tech, and collaborating on high-quality solutions. I enjoy working in dynamic teams and turning complex ideas into smooth, functional products. In my free time, I explore new tools, contribute to open-source, and stay curious about emerging technologies.`
 
-`;
 
 export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
 
